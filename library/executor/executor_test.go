@@ -12,15 +12,15 @@ import (
 	"testing"
 	"time"
 
+	"github.com/gorcon/rcon"
+	"github.com/gorcon/rcon/rcontest"
 	"github.com/gorcon/telnet"
 	"github.com/gorcon/telnet/telnettest"
 	"github.com/gorcon/websocket"
 	gorilla "github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
-	"github.com/thegrandpackard/rcon"
 	"github.com/thegrandpackard/rcon-cli/library/config"
 	"github.com/thegrandpackard/rcon-cli/library/executor"
-	"github.com/thegrandpackard/rcon/rcontest"
 )
 
 const ConfigLayoutJSON = `{"%s": {"address": "%s", "password": "%s", "log": "%s", "type": "%s"}}`
