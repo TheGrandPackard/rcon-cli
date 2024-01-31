@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gorcon/rcon-cli/internal/executor"
+	"github.com/gorcon/rcon-cli/library/executor"
 )
 
 // Version displays service version in semantic versioning (http://semver.org/).

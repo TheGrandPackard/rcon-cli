@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gorcon/rcon-cli/internal/logger"
 	"github.com/stretchr/testify/assert"
+	"github.com/thegrandpackard/rcon-cli/library/logger"
 )
 
 func TestOpenFile(t *testing.T) {

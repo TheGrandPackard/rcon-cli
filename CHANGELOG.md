@@ -121,19 +121,19 @@ than entry in configuration file.
 ### Added
 - Initial implementation.
 
-[Unreleased]: https://github.com/gorcon/rcon-cli/compare/v0.10.3...HEAD
-[v0.10.3]: https://github.com/gorcon/rcon-cli/compare/v0.10.2...v0.10.3
-[v0.10.2]: https://github.com/gorcon/rcon-cli/compare/v0.10.1...v0.10.2
-[v0.10.1]: https://github.com/gorcon/rcon-cli/compare/v0.10.0...v0.10.1
-[v0.10.0]: https://github.com/gorcon/rcon-cli/compare/v0.9.1...v0.10.0
-[v0.9.1]: https://github.com/gorcon/rcon-cli/compare/v0.9.0...v0.9.1
-[v0.9.0]: https://github.com/gorcon/rcon-cli/compare/v0.8.1...v0.9.0
-[v0.8.1]: https://github.com/gorcon/rcon-cli/compare/v0.8.0-beta.2...v0.8.1
-[v0.8.0-beta.2]: https://github.com/gorcon/rcon-cli/compare/v0.8.0-beta...v0.8.0-beta.2
-[v0.8.0-beta]: https://github.com/gorcon/rcon-cli/compare/v0.7.0...v0.8.0-beta
-[v0.7.0]: https://github.com/gorcon/rcon-cli/compare/v0.6.0...v0.7.0
-[v0.6.0]: https://github.com/gorcon/rcon-cli/compare/0.5.0...v0.6.0
-[v0.5.0]: https://github.com/gorcon/rcon-cli/compare/v0.4.0...0.5.0
-[v0.4.0]: https://github.com/gorcon/rcon-cli/compare/v0.3.0...v0.4.0
-[v0.3.0]: https://github.com/gorcon/rcon-cli/compare/v0.2.0...v0.3.0
-[v0.2.0]: https://github.com/gorcon/rcon-cli/compare/v0.1.0...v0.2.0
+[Unreleased]: https://github.com/thegrandpackard/rcon-cli/compare/v0.10.3...HEAD
+[v0.10.3]: https://github.com/thegrandpackard/rcon-cli/compare/v0.10.2...v0.10.3
+[v0.10.2]: https://github.com/thegrandpackard/rcon-cli/compare/v0.10.1...v0.10.2
+[v0.10.1]: https://github.com/thegrandpackard/rcon-cli/compare/v0.10.0...v0.10.1
+[v0.10.0]: https://github.com/thegrandpackard/rcon-cli/compare/v0.9.1...v0.10.0
+[v0.9.1]: https://github.com/thegrandpackard/rcon-cli/compare/v0.9.0...v0.9.1
+[v0.9.0]: https://github.com/thegrandpackard/rcon-cli/compare/v0.8.1...v0.9.0
+[v0.8.1]: https://github.com/thegrandpackard/rcon-cli/compare/v0.8.0-beta.2...v0.8.1
+[v0.8.0-beta.2]: https://github.com/thegrandpackard/rcon-cli/compare/v0.8.0-beta...v0.8.0-beta.2
+[v0.8.0-beta]: https://github.com/thegrandpackard/rcon-cli/compare/v0.7.0...v0.8.0-beta
+[v0.7.0]: https://github.com/thegrandpackard/rcon-cli/compare/v0.6.0...v0.7.0
+[v0.6.0]: https://github.com/thegrandpackard/rcon-cli/compare/0.5.0...v0.6.0
+[v0.5.0]: https://github.com/thegrandpackard/rcon-cli/compare/v0.4.0...0.5.0
+[v0.4.0]: https://github.com/thegrandpackard/rcon-cli/compare/v0.3.0...v0.4.0
+[v0.3.0]: https://github.com/thegrandpackard/rcon-cli/compare/v0.2.0...v0.3.0
+[v0.2.0]: https://github.com/thegrandpackard/rcon-cli/compare/v0.1.0...v0.2.0

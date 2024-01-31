@@ -1,9 +1,9 @@
 # rcon-cli
 [![Mentioned in Awesome-Selfhosted](https://awesome.re/mentioned-badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted)
-[![GitHub Build](https://github.com/gorcon/rcon-cli/workflows/build/badge.svg)](https://github.com/gorcon/rcon-cli/actions)
-[![Go Coverage](https://github.com/gorcon/rcon-cli/wiki/coverage.svg)](https://raw.githack.com/wiki/gorcon/rcon-cli/coverage.html)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gorcon/rcon-cli)](https://goreportcard.com/report/github.com/gorcon/rcon-cli)
-[![GitHub All Releases](https://img.shields.io/github/downloads/gorcon/rcon-cli/total)](https://github.com/gorcon/rcon-cli/releases)
+[![GitHub Build](https://github.com/thegrandpackard/rcon-cli/workflows/build/badge.svg)](https://github.com/thegrandpackard/rcon-cli/actions)
+[![Go Coverage](https://github.com/thegrandpackard/rcon-cli/wiki/coverage.svg)](https://raw.githack.com/wiki/gorcon/rcon-cli/coverage.html)
+[![Go Report Card](https://goreportcard.com/badge/github.com/thegrandpackard/rcon-cli)](https://goreportcard.com/report/github.com/thegrandpackard/rcon-cli)
+[![GitHub All Releases](https://img.shields.io/github/downloads/gorcon/rcon-cli/total)](https://github.com/thegrandpackard/rcon-cli/releases)
 [![Docker Pulls](https://img.shields.io/docker/pulls/outdead/rcon.svg)](https://hub.docker.com/r/outdead/rcon)
 
 CLI for executing queries on a remote [Source dedicated game server](https://developer.valvesoftware.com/wiki/Source_Dedicated_Server), using the [RCON](https://developer.valvesoftware.com/wiki/Source_RCON_Protocol) protocol.
@@ -28,7 +28,7 @@ CLI for executing queries on a remote [Source dedicated game server](https://dev
 Open pull request if you have successfully used a package with another game with rcon support and add it to the list.
 
 ## Installation
-Download the binary for your platform from the [latest releases](https://github.com/gorcon/rcon-cli/releases/latest)
+Download the binary for your platform from the [latest releases](https://github.com/thegrandpackard/rcon-cli/releases/latest)
 
 See [Changelog](CHANGELOG.md) for release details
 

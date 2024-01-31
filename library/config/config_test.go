@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gorcon/rcon-cli/internal/config"
 	"github.com/stretchr/testify/assert"
+	"github.com/thegrandpackard/rcon-cli/library/config"
 )
 
 // DefaultTestLogName sets the default log file name.

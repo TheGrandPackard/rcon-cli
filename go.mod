@@ -1,4 +1,4 @@
-module github.com/gorcon/rcon-cli
+module github.com/thegrandpackard/rcon-cli
 
 go 1.19
 
